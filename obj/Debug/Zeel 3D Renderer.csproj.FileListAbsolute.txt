@@ -1,0 +1,24 @@
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.csprojAssemblyReference.cache
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\App.g.cs
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer_MarkupCompile.cache
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\Zeel 3D Renderer.exe.config
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\Zeel 3D Renderer.exe
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\Zeel 3D Renderer.pdb
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\HelixToolkit.dll
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\HelixToolkit.Wpf.dll
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\HelixToolkit.xml
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\HelixToolkit.Wpf.xml
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\MainWindow.baml
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\MainWindow.g.cs
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.g.resources
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel_3D_Renderer.Properties.Resources.resources
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.csproj.GenerateResource.cache
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.csproj.CoreCompileInputs.cache
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.csproj.CopyComplete
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.exe
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.pdb
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\Zeel 3D Renderer.exe.manifest
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\bin\Debug\Zeel 3D Renderer.application
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.TrustInfo.xml
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.exe.manifest
+F:\ZEEL_DATA\practice of c#\3D rendering\Zeel 3D Renderer\Zeel 3D Renderer\obj\Debug\Zeel 3D Renderer.application
